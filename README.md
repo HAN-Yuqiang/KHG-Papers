@@ -7,11 +7,11 @@
 * [Public Dataset](https://github.com/liuyuaa/KHG-Papers#public-dataset)
 
 ## Fact Definition
-- **tuple definition**
+- **tuple definition (N-ary relation)**
   - <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;(r,e_1,e_2,\cdots,e_n)" target="_blank"><img src="https://latex.codecogs.com/png.latex?\inline&space;(r,e_1,e_2,\cdots,e_n)" title="(r,e_1,e_2,\cdots,e_n)" /></a>
 - **role-entity definition**
   - <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\{rol_1:e_1,rol_2:e_2,\cdots,rol_n:e_n\}" target="_blank"><img src="https://latex.codecogs.com/png.latex?\inline&space;\{rol_1:e_1,rol_2:e_2,\cdots,rol_n:e_n\}" title="\{rol_1:e_1,rol_2:e_2,\cdots,rol_n:e_n\}" /></a>
-- **triplet-qualifier definition**
+- **triplet-qualifier definition (hyper-relation)**
   - <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;(h,r,t)+\{a_1:v_1,a_2:v_2,\cdots,a_m:v_m\},\&space;(m\leq&space;n-2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(h,r,t)&plus;\{a_1:v_1,a_2:v_2,\cdots,a_m:v_m\},\&space;(m=n-2)" title="(h,r,t)+\{a_1:v_1,a_2:v_2,\cdots,a_m:v_m\},\ (m=n-2)" /></a>
 
 ## Research Papers
